@@ -34,16 +34,11 @@ Open  [http://localhost:4200/](http://localhost:4200/)  to view it in your brows
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-<br>
-
 ### Used tools:
 - TypeScript
 - HTML
 - CSS
 - Angular
-
-
-<br>
 
 #### <a href="">Link to open the Weather App</a>
 
