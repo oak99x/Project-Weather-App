@@ -45,6 +45,11 @@ You may also see any lint errors in the console.
 <br>
 
 <p align="center">
-  <img src="./src/imgs/captura.png" width="500px" alt="Weather App">
-  <p align="center">Figure 1: Screenshot</p>
+  <img src="./src/assets/images/Captura1.png" width="500px" alt="Weather Cold">
+  <p align="center">Figure 1:  Cold background</p>
+</p>
+
+<p align="center">
+  <img src="./src/assets/images/Captura2.png" width="500px" alt="Weather Hot">
+  <p align="center">Figure 2: Hot background</p>
 </p>
