@@ -34,13 +34,15 @@ Open  [http://localhost:4200/](http://localhost:4200/)  to view it in your brows
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+#### The OpenWeather API offers a daily limit of calls for its free plan, if by chance the page only has the search button, this limit has definitely been reached and it will take 24 hours to release it again. As it is a study and practice project, that is enough for us.
+
 ### Used tools:
 - TypeScript
 - HTML
 - CSS
 - Angular
 
-#### <a href="">Link to open the Weather App</a>
+#### <a href="https://project-weather-app-six.vercel.app/weather">Link to open the Weather App</a>
 
 <br>
 
